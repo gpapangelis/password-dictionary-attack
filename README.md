@@ -1,4 +1,4 @@
-# project1sec
+# password-dictionary-attack
 
 
 In order to execute the specific project you have to run the scripts in specific order.
